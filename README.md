@@ -17,7 +17,7 @@ cd PPSDiamondEfficiencyRadiography
 
 scram b
 
-../bin/slc7_amd64_gcc10/FWLiteTimingEfficiencyRadiography
+../../bin/slc7_amd64_gcc10/FWLiteTimingEfficiencyRadiography
 
 The ouput will be a file timingHistograms.root, with a subfolder diamondHistograms containing all the histograms
 
